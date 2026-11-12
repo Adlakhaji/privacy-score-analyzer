@@ -1,1 +1,0 @@
-# privacy-score-analyzer
